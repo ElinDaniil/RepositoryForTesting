@@ -5,5 +5,8 @@ This file was changed for the testing purposes!
 Round and round we go!   ыаф
 
 file got edited in Github directly lmao
+<<<<<<< HEAD
 
 And we're editing it again!!
+=======
+>>>>>>> 300fe1dce0b934f724ad43e72814e4526ddd1936

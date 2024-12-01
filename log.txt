@@ -1,0 +1,60 @@
+[33mcommit 54a64140c0c2aad3e73152db89fd8ce90094fe2a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 22:43:49 2024 +0500
+
+    Первый репозиторий
+
+[33mcommit 651762d0030e8e3b5e62b5ec816e4d978f8dae15[m
+Merge: c4747c4 f84c8b5
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 22:39:28 2024 +0500
+
+    Первый репозиторий
+
+[33mcommit c4747c4a337a3a8653c4667d86a78e4fc1cae981[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 22:22:22 2024 +0500
+
+    Первый репозиторий
+
+[33mcommit 64923b525428a02bdc9232d1255ee97a99cbd57e[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 22:20:29 2024 +0500
+
+    Первый репозиторий
+
+[33mcommit 1b558a6434fd3485267ecb03228530f67229b645[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 22:14:32 2024 +0500
+
+    Первый репозиторий
+
+[33mcommit f84c8b5fd747fabf12fb0051ce5cfc0fb8427994[m[33m ([m[1;32mone[m[33m)[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 22:04:46 2024 +0500
+
+    Второй коммит
+
+[33mcommit bd0f7e6726658430363bb2abae499952346a2fbf[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 21:55:11 2024 +0500
+
+    Второй коммит
+
+[33mcommit dbd1abf4bb9bd54ba221220428ea77bc57a2b2d4[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 21:51:55 2024 +0500
+
+    Второй коммит
+
+[33mcommit 55c01b055f3664124f1924a6c43864159e5adc6b[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 21:48:35 2024 +0500
+
+    Первый коммит
+
+[33mcommit 922f38a36c3abc3516faa52126cf100dc574aedf[m
+Author: TheStimergames <stimergames@yandex.com>
+Date:   Sun Dec 1 21:28:42 2024 +0500
+
+    Первый репозиторий

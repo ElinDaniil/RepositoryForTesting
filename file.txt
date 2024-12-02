@@ -2,6 +2,7 @@ This is a file for testing!
 
 This file was changed for the testing purposes!
 
+<<<<<<< HEAD
 Round and round we go!   ыаф
 
 file got edited in Github directly lmao
@@ -13,3 +14,6 @@ And we're editing it again!!
 
 
 Let's edit this file...
+=======
+Round and round we go!   ыаф
+>>>>>>> parent of 69270ea (Первый репозиторий)
